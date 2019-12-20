@@ -1,0 +1,11 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmSplashScreen.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.MainMenuForm.resources
