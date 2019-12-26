@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace PacmanSasha
 {
-    static class SplashScreen
+    static class SimplePacman
     {
         /// <summary>
         /// The main entry point for the application.

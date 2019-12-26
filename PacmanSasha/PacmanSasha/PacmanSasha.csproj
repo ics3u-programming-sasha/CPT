@@ -12,6 +12,21 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -46,11 +61,94 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Character2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Character2Form.Designer.cs">
+      <DependentUpon>Character2Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Character3Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Character3Form.Designer.cs">
+      <DependentUpon>Character3Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CharacterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharacterForm.Designer.cs">
+      <DependentUpon>CharacterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreditsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreditsForm.Designer.cs">
+      <DependentUpon>CreditsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameOverForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameOverForm.Designer.cs">
+      <DependentUpon>GameOverForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InstructionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InstructionsForm.Designer.cs">
+      <DependentUpon>InstructionsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelOneMForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelOneMForm.Designer.cs">
+      <DependentUpon>LevelOneMForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelOnePForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelOnePForm.Designer.cs">
+      <DependentUpon>LevelOnePForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelThreeMForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelThreeMForm.Designer.cs">
+      <DependentUpon>LevelThreeMForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelThreePForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelThreePForm.Designer.cs">
+      <DependentUpon>LevelThreePForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelTwoMForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelTwoMForm.Designer.cs">
+      <DependentUpon>LevelTwoMForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LevelTwoPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LevelTwoPForm.Designer.cs">
+      <DependentUpon>LevelTwoPForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainMenuForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainMenuForm.Designer.cs">
       <DependentUpon>MainMenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
     </Compile>
     <Compile Include="SplashScreenForm.cs">
       <SubType>Form</SubType>
@@ -58,23 +156,75 @@
     <Compile Include="SplashScreenForm.Designer.cs">
       <DependentUpon>SplashScreenForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="SplashScreen.cs" />
+    <Compile Include="SimplePacman.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="YouWin2Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YouWin2Form.Designer.cs">
+      <DependentUpon>YouWin2Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YouWin1Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YouWin1Form.Designer.cs">
+      <DependentUpon>YouWin1Form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Character2Form.resx">
+      <DependentUpon>Character2Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Character3Form.resx">
+      <DependentUpon>Character3Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharacterForm.resx">
+      <DependentUpon>CharacterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreditsForm.resx">
+      <DependentUpon>CreditsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameOverForm.resx">
+      <DependentUpon>GameOverForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InstructionsForm.resx">
+      <DependentUpon>InstructionsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelOneMForm.resx">
+      <DependentUpon>LevelOneMForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelOnePForm.resx">
+      <DependentUpon>LevelOnePForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelThreeMForm.resx">
+      <DependentUpon>LevelThreeMForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelThreePForm.resx">
+      <DependentUpon>LevelThreePForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelTwoMForm.resx">
+      <DependentUpon>LevelTwoMForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LevelTwoPForm.resx">
+      <DependentUpon>LevelTwoPForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainMenuForm.resx">
       <DependentUpon>MainMenuForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SplashScreenForm.resx">
       <DependentUpon>SplashScreenForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YouWin1Form.resx">
+      <DependentUpon>YouWin1Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YouWin2Form.resx">
+      <DependentUpon>YouWin2Form.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -97,6 +247,136 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\PacmanTitle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instructions.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArrowKeys.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Instructions1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unmute.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blinky.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clyde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inky.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pinky.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pacman.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coin.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Left.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Up.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\YouWin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lives.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GameOver.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ms.Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ms.Right1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Right2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ms.Right2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ms.Right3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ms.Right4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MsRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MsDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MsLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MsRight1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MsUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Credits.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

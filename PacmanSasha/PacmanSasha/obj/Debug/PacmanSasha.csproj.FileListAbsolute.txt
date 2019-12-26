@@ -9,3 +9,33 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\Pacm
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.pdb
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.MainMenuForm.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.exe.config
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.exe
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.pdb
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\bin\Debug\Interop.WMPLib.dll
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csprojAssemblyReference.cache
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\Interop.WMPLib.dll
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csproj.ResolveComReference.cache
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.Properties.Resources.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmSplashScreen.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csproj.GenerateResource.cache
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.exe
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.pdb
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmSettings.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmMainMenu.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmGameOver.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmInstructions.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmCharacter.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelOneP.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelOneM.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmCredits.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmCharacter2.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmYouWin1.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelTwoP.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelTwoM.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmYouWin2.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmCharacter3.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelThreeP.resources
+C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelThreeM.resources

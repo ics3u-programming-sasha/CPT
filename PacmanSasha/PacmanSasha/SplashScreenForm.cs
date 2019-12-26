@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Sasha Malko
+ * Created on: 16-Dec-2019
+ * Created for: ICS3U Programming
+ * CPT - Simple Pacman Game
+ * This program allows the user to play a simple game of Pacman. 
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,30 +19,63 @@ namespace PacmanSasha
 {
     public partial class frmSplashScreen : Form
     {
+        // declare global variables
+        WMPLib.WindowsMediaPlayer splashPlayer = new WMPLib.WindowsMediaPlayer();
+        WMPLib.WindowsMediaPlayer player = new WMPLib.WindowsMediaPlayer();
+        bool levelTwo, levelThree, mute;
+
         public frmSplashScreen()
         {
             InitializeComponent();
+
+            // set the variables equal to false
+            levelTwo = false;
+            levelThree = false;
+            mute = false;
+
+            // play the music
+            splashPlayer.URL = "SplashScreen.mp3";
+            splashPlayer.controls.play();
         }
+
+
+        // declare the time used by the timer
+        public int totalTime { get; set; }
 
         private void FrmSplashScreen_Load(object sender, EventArgs e)
         {
-            totalTime = 20;
-            timer1.Start();
+            // set the total time equal to 36
+            totalTime = 36;
+
+            // start the timer
+            tmrSwitch.Start();
         }
 
-        public int totalTime { get; set; }
-
-        private void Timer1_Tick(object sender, EventArgs e)
+        private void tmrSwitch_Tick(object sender, EventArgs e)
         {
+            // if the total time is greater than 0
             if (totalTime > 0)
             {
+                // subtract one from the total time
                 totalTime = totalTime - 1;
             }
             else
             {
-                timer1.Stop();
-                new MainMenuForm().Show();
+                // stop the timer
+                tmrSwitch.Stop();
+
+                // hide the form
                 this.Hide();
+
+                // stop the music
+                splashPlayer.controls.stop();
+
+                // play the music
+                player.URL = "Music.mp3";
+                player.controls.play();
+
+                // display the main menu form
+                new frmMainMenu(ref player, mute, levelTwo, levelThree).Show();
             }
         }
     }
