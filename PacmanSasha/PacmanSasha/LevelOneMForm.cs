@@ -88,7 +88,6 @@ namespace PacmanSasha
         // declare the time left used by the timer
         public int timeLeft { get; set; }
 
-
         private void mniExit_Click(object sender, EventArgs e)
         {
             // close the form
