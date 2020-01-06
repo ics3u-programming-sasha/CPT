@@ -27,8 +27,8 @@ namespace PacmanSasha
         int speed = 8;
         int ghost1 = 8;
         int ghost2 = 5;
-        int ghost3x = 8;
-        int ghost3y = 8;
+        int ghost3x = 3;
+        int ghost3y = 3;
         int ghost4 = 6;
         int score = 0;
         int lives = 3;

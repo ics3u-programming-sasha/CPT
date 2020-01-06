@@ -129,7 +129,6 @@ namespace PacmanSasha
 
         private void mniPause_Click(object sender, EventArgs e)
         {
-
             // stop the timers
             tmrPlay.Stop();
             tmrCountDown.Stop();

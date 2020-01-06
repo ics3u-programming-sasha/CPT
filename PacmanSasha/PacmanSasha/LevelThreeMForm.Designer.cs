@@ -196,7 +196,7 @@
             this.picWall12.BackColor = System.Drawing.Color.Red;
             this.picWall12.Location = new System.Drawing.Point(606, 270);
             this.picWall12.Name = "picWall12";
-            this.picWall12.Size = new System.Drawing.Size(23, 81);
+            this.picWall12.Size = new System.Drawing.Size(23, 80);
             this.picWall12.TabIndex = 286;
             this.picWall12.TabStop = false;
             this.picWall12.Tag = "wall";
@@ -256,7 +256,7 @@
             this.picWall8.BackColor = System.Drawing.Color.Red;
             this.picWall8.Location = new System.Drawing.Point(169, 132);
             this.picWall8.Name = "picWall8";
-            this.picWall8.Size = new System.Drawing.Size(23, 219);
+            this.picWall8.Size = new System.Drawing.Size(23, 218);
             this.picWall8.TabIndex = 280;
             this.picWall8.TabStop = false;
             this.picWall8.Tag = "wall";
