@@ -32,9 +32,6 @@ namespace PacmanSasha
             level3 = levelThree;
             muteForm = mute;
             mainPlayer = player;
-
-            level2 = true;
-            level3 = true;
             
             // if level2 is true
             if (level2 == true)

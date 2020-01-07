@@ -1226,6 +1226,7 @@
             // tmrCountDown
             // 
             this.tmrCountDown.Interval = 1000;
+            this.tmrCountDown.Tick += new System.EventHandler(this.tmrCountDown_Tick);
             // 
             // frmLevelTwoM
             // 

@@ -151,8 +151,8 @@ namespace PacmanSasha
             }
 
             // resume the timers
-            tmrPlay.Stop();
-            tmrCountDown.Stop();
+            tmrPlay.Start();
+            tmrCountDown.Start();
         }
 
         private void mniRestart_Click(object sender, EventArgs e)
@@ -569,6 +569,7 @@ namespace PacmanSasha
                 picMsPacman.Image = Properties.Resources.MsDown;
             }
         }
+
 
         private void KeyIsUp(object sender, KeyEventArgs e)
         {

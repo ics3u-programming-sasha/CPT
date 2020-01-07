@@ -1234,6 +1234,11 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.picBlueGhost);
+            this.Controls.Add(this.picPinkGhost);
+            this.Controls.Add(this.picYellowGhost);
+            this.Controls.Add(this.picRedGhost);
+            this.Controls.Add(this.picMsPacman);
             this.Controls.Add(this.picWall18);
             this.Controls.Add(this.picWall27);
             this.Controls.Add(this.picCoin33);
@@ -1245,10 +1250,6 @@
             this.Controls.Add(this.picLife3);
             this.Controls.Add(this.picLife2);
             this.Controls.Add(this.picLife1);
-            this.Controls.Add(this.picBlueGhost);
-            this.Controls.Add(this.picYellowGhost);
-            this.Controls.Add(this.picPinkGhost);
-            this.Controls.Add(this.picRedGhost);
             this.Controls.Add(this.picCoin41);
             this.Controls.Add(this.picCoin43);
             this.Controls.Add(this.picCoin46);
@@ -1298,7 +1299,6 @@
             this.Controls.Add(this.picCoin3);
             this.Controls.Add(this.picCoin1);
             this.Controls.Add(this.picCoin2);
-            this.Controls.Add(this.picMsPacman);
             this.Controls.Add(this.picWall21);
             this.Controls.Add(this.picWall22);
             this.Controls.Add(this.picWall20);

@@ -65,7 +65,6 @@ namespace PacmanSasha
             // hide the go label
             this.lblGo.Visible = false;
 
-
             // stop the music
             level2PPlayer.controls.stop();
 
