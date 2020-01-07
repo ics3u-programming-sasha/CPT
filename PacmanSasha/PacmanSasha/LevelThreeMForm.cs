@@ -284,8 +284,8 @@ namespace PacmanSasha
                 ghost2 = -ghost2;
             }
 
-            // if the blue ghost insersects with the wall2 image
-            if (picBlueGhost.Bounds.IntersectsWith(picWall2.Bounds))
+            // if the blue ghost insersects with the wall13 image
+            if (picBlueGhost.Bounds.IntersectsWith(picWall13.Bounds))
             {
                 // the ghost will travel in the opposite direction
                 ghost4 = -ghost4;

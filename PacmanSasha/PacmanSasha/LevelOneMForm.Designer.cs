@@ -125,7 +125,7 @@
             this.lblTimer = new System.Windows.Forms.Label();
             this.tmrCountDown = new System.Windows.Forms.Timer(this.components);
             this.picCoin33 = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.picWall27 = new System.Windows.Forms.PictureBox();
             this.picWall18 = new System.Windows.Forms.PictureBox();
             this.mnuOptions.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picLife3)).BeginInit();
@@ -209,7 +209,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.picWall2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picWall1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picCoin33)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picWall27)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picWall18)).BeginInit();
             this.SuspendLayout();
             // 
@@ -1208,15 +1208,15 @@
             this.picCoin33.TabStop = false;
             this.picCoin33.Tag = "coin";
             // 
-            // pictureBox1
+            // picWall27
             // 
-            this.pictureBox1.BackColor = System.Drawing.Color.Blue;
-            this.pictureBox1.Location = new System.Drawing.Point(726, 98);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(74, 22);
-            this.pictureBox1.TabIndex = 108;
-            this.pictureBox1.TabStop = false;
-            this.pictureBox1.Tag = "wall";
+            this.picWall27.BackColor = System.Drawing.Color.Blue;
+            this.picWall27.Location = new System.Drawing.Point(726, 98);
+            this.picWall27.Name = "picWall27";
+            this.picWall27.Size = new System.Drawing.Size(74, 22);
+            this.picWall27.TabIndex = 108;
+            this.picWall27.TabStop = false;
+            this.picWall27.Tag = "wall";
             // 
             // picWall18
             // 
@@ -1235,7 +1235,7 @@
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.picWall18);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.picWall27);
             this.Controls.Add(this.picCoin33);
             this.Controls.Add(this.lblTimer);
             this.Controls.Add(this.lblScore);
@@ -1411,7 +1411,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.picWall2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picWall1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picCoin33)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picWall27)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picWall18)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -1516,7 +1516,7 @@
         private System.Windows.Forms.Timer tmrCountDown;
         private System.Windows.Forms.ToolStripMenuItem mniRestart;
         private System.Windows.Forms.PictureBox picCoin33;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox picWall27;
         private System.Windows.Forms.PictureBox picWall18;
     }
 }
