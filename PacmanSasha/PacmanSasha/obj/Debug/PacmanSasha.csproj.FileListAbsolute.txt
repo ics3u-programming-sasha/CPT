@@ -8,7 +8,6 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\Pacm
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.pdb
-N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.MainMenuForm.resources
 C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.exe.config
 C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.exe
 C:\Users\S\Documents\ICS3U\CPT\PacmanSasha\PacmanSasha\bin\Debug\PacmanSasha.pdb
@@ -70,3 +69,24 @@ C:\Users\S272033\Documents\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csproj.
 C:\Users\S272033\Documents\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csproj.CoreCompileInputs.cache
 C:\Users\S272033\Documents\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.exe
 C:\Users\S272033\Documents\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\bin\Debug\Interop.WMPLib.dll
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\bin\Debug\AxInterop.WMPLib.dll
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\Interop.WMPLib.dll
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\AxInterop.WMPLib.dll
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.csproj.ResolveComReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmCharacter2.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmCharacter3.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmCharacter.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmCredits.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmGameOver.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmInstructions.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelOneM.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelOneP.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelThreeM.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelThreeP.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelTwoM.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmLevelTwoP.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmMainMenu.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmSettings.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmYouWin1.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\MSasha (s272033)\CPT\PacmanSasha\PacmanSasha\obj\Debug\PacmanSasha.frmYouWin2.resources
